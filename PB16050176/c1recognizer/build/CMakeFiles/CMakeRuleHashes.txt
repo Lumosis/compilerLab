@@ -1,0 +1,20 @@
+# Hashes of file build rules.
+89c48ce843f3583dba9f24fb6e7b706b CMakeFiles/antlr4cpp
+78832e9e584d3e24b2c96f91eb423a9c CMakeFiles/antlr4cpp-complete
+9dd46dfe7412e8d92021301ce9f9f3b9 CMakeFiles/antlr4cpp_generation_c1_recognizer
+89c48ce843f3583dba9f24fb6e7b706b CMakeFiles/rapidjson
+7d04bd59bfe517deb23bb709dbceadb4 CMakeFiles/rapidjson-complete
+59101a3194b4b246cfb05ffd72bec5a8 externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build
+a7b2f5b672c9711a6fcf3697e651b04f externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure
+a32338352bfec9838e01bac4f78bd928 externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download
+f23e89821a03f4c092df56694b9b45c7 externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install
+cd42a8b6892ffdce6ceb879d1ed8153c externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir
+c2d4712e86335c960c41981285c5f522 externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch
+d4bf94535a96208b70acf1309fcc9715 externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-skip-update
+9c9f7ce6d1dddad674087e292b3ebcfe externals/rapidjson/src/rapidjson-stamp/rapidjson-build
+856c32d3372f6d508891d0e5d42bb87f externals/rapidjson/src/rapidjson-stamp/rapidjson-configure
+87c0484b45cb6155b0b7e7869445364e externals/rapidjson/src/rapidjson-stamp/rapidjson-download
+07e1b025a290d2c8b5dac710bbbc3a9f externals/rapidjson/src/rapidjson-stamp/rapidjson-install
+2cc7fda7d219b453ecca2b791a36390d externals/rapidjson/src/rapidjson-stamp/rapidjson-mkdir
+fb0a71c5ff5ec8a21f1d4578f79e8d33 externals/rapidjson/src/rapidjson-stamp/rapidjson-patch
+cc6cf2c4437008f120be821157d42bb6 externals/rapidjson/src/rapidjson-stamp/rapidjson-skip-update

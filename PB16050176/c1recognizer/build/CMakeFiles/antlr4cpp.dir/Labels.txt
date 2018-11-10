@@ -1,0 +1,13 @@
+# Target labels
+ antlr4cpp
+# Source files and their labels
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/CMakeFiles/antlr4cpp
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/CMakeFiles/antlr4cpp.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/CMakeFiles/antlr4cpp-complete.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-skip-update.rule

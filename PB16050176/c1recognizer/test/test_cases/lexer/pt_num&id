@@ -1,0 +1,20 @@
+
+
+void main(){
+    int _356 = -1234056789;//decimal
+    int a569 = 056;//octal 
+    //09 false
+    int a9g5 = 0x85ab;//hex
+    int abcd = 0XabdE;//hex
+    float QA_54 = .5694;//float
+    float QA_54 = .574e556;
+    float _ = .5845E+5421;
+    float _ = .2555E-4454;
+    float _ = 412.455;
+    float _ = 54.855e-74;
+    float _ = 556.;
+    float _ = 55.e+5;
+    float _ = 5855E-9;
+    float a = 000e000;
+
+}

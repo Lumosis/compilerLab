@@ -1,0 +1,14 @@
+
+int i=1;
+
+void main(){
+    while(i<2018){
+        i=i+1;
+        if(i>2012)
+            break();
+    }
+    if(i>2013)
+        foo1();
+    else
+        foo2();
+}

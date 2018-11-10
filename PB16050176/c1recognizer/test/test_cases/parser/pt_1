@@ -1,0 +1,11 @@
+void foo1(){
+    int i;
+    i=2018;
+}
+
+void main(){
+    int i,j,k;
+    foo1();
+    j=2019;
+    ;
+}

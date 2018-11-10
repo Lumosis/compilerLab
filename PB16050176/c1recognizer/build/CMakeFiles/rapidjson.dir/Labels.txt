@@ -1,0 +1,13 @@
+# Target labels
+ rapidjson
+# Source files and their labels
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/CMakeFiles/rapidjson
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/CMakeFiles/rapidjson.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/CMakeFiles/rapidjson-complete.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-install.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-mkdir.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-download.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-patch.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-configure.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-build.rule
+/home/lumos/courses/compilerH/PB16050176/c1recognizer/build/externals/rapidjson/src/rapidjson-stamp/rapidjson-skip-update.rule

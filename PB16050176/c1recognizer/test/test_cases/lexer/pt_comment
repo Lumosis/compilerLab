@@ -1,0 +1,28 @@
+
+void main(){
+    /*hello world*/
+
+    /*hello 
+    world
+    hello world
+    */
+
+    printf("hello \\world\n");
+
+    //hello world
+
+    //hello\
+    world\
+    sdad\
+    asdf
+
+    /\
+/asfsd\
+    asfaf\
+    asffs
+
+    /*printf("hello wor/*ld");*/
+
+    printf("hello world");
+
+}
